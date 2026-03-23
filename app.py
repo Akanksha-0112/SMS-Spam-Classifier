@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import streamlit as st
 import pickle
 import string
@@ -101,4 +100,4 @@ if st.button('Predict'):
         st.header("Spam")
     else:
         st.header("Not Spam")
->>>>>>> a0e55e7716d99c4f1efc18e44abe58cf4a09de81
+
