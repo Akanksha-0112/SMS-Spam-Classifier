@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/SMS Spam Classifier.iml" filepath="$PROJECT_DIR$/.idea/SMS Spam Classifier.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/SMS-SPAM.iml" filepath="$PROJECT_DIR$/.idea/SMS-SPAM.iml" />
+>>>>>>> a0e55e7716d99c4f1efc18e44abe58cf4a09de81
     </modules>
   </component>
 </project>
