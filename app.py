@@ -54,7 +54,7 @@ def transform_text(text):
 
 
 # Load model and vectorizer safely
-BASE_DIR = os.path.dirname(_file_)
+BASE_DIR = os.path.dirname(__file_)
 
 tfidf = pickle.load(open(os.path.join(BASE_DIR, 'vectorizer.pkl'), 'rb'))
 model = pickle.load(open(os.path.join(BASE_DIR, 'model.pkl'), 'rb'))
